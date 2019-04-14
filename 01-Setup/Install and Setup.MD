@@ -108,6 +108,6 @@ This will create the necessary directories and setup all the required scripts, d
 
 ### Start-up sequence
 
-The instructions for the start-up sequence and final checks are available [here](https://github.com/rajatrakesh/bigdatalab/blob/master/01-Setup/Startup.MD)
+The instructions for the start-up sequence and final checks are available [here](https://github.com/wahyubudiman/HadoopLab/blob/master/01-Setup/Startup.MD)
 
 ### End of Setup
