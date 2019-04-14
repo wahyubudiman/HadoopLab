@@ -67,7 +67,7 @@ Then connect to the instance by typing:
 
 The default userid/password setup in the instance is cloudera/cloudera
 
-There are a few additional steps required for final checks, start-up sequence etc. They are available [here](https://github.com/rajatrakesh/bigdatalab/blob/master/01-Setup/Startup.MD)
+There are a few additional steps required for final checks, start-up sequence etc. They are available [here](https://github.com/wahyubudiman/HadoopLab/blob/master/01-Setup/Startup.MD)
 
 #### This concludes this tutorial
 
